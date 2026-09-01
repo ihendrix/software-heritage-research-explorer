@@ -1,0 +1,16 @@
+[project]
+name = "software-heritage-research-explorer"
+version = "0.2.0"
+description = "A local-first research interface for Software Heritage graph exports"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
