@@ -2,6 +2,10 @@
 
 **An experimental, local-first interface for exploring Software Heritage graph exports and investigating evidence-grounded AI workflows for software-history research.**
 
+## Live Link
+
+https://software-heritage-research-explorer.streamlit.app/
+
 This project began as a small Streamlit utility for inspecting a Software Heritage teaser dataset. I rebuilt it to answer a more useful question:
 
 > How far can a researcher go using public Software Heritage data, local analytical tooling, persistent identifiers, and a carefully bounded AI layer—without privileged archive infrastructure?
