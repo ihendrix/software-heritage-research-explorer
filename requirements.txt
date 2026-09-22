@@ -5,3 +5,4 @@ pyarrow>=18,<24
 openai>=2.0,<3
 python-dotenv>=1.0,<2
 tabulate>=0.9,<1
+plotly
